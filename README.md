@@ -18,7 +18,7 @@ I’m an Embedded Systems Engineer at **hajster** with a strong engineering back
 **Major**: Automation, Computer-Integrated Technologies and Robotics
 
 - 🎓 **Bachelor’s Degree** (Sep 2021 – Jun 2025)
-  - 🧾 [Bachelor’s Thesis PDF](https://github.com/dmytrobuhai/dmytrobuhai/docs/diploma_project.pdf)
+  - 🧾 [Bachelor’s Thesis PDF](https://github.com/dmytrobuhai/dmytrobuhai/blob/main/docs/diploma_project.pdf)
 - 🎓 **Master’s Degree** _(in progress)_ (Sep 2025 – Dec 2026)
 ---
 
