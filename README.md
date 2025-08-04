@@ -1,4 +1,4 @@
-<h1 align="center">
+[diploma_project.pdf](https://github.com/user-attachments/files/21578752/diploma_project.pdf)<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=600&height=60&color=36BCF7&duration=3000&lines=Hi+there+%F0%9F%91%8B;I'm+Dmytro+Buhai.;Welcome+to+my+Profile!">
 </h1>
 
@@ -6,11 +6,20 @@
 
 ### 👨‍💻 About Me
 
-I’m an Embedded Systems Engineer at **hajster** with a background in **Automation and Computer-Integrated Technologies**. I work at the intersection of intelligent algorithms and physical systems - from STM32‑based control logic and robotics to applied machine learning and system simulation.
+I’m an Embedded Systems Engineer at **hajster** with a strong engineering background. I work at the intersection of intelligent algorithms and physical systems - from STM32‑based control logic and robotics to applied machine learning and system simulation.
 
-- 🎓 **Bachelor’s** — NTUU *‘Kyiv Polytechnic Institute’*
+- 🎓 **Bachelor’s** | **Master’s** in progress - National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
 - 🛠️ Embedded C/C++ | STM32 | FreeRTOS | Sensors | Modbus | SCADA
 - 🧠 Python | AI | ML | Computer Vision | Simulink | Control Theory
+
+### 🎓 Education
+
+**National Technical University of Ukraine ‘Kyiv Polytechnic Institute’**  
+**Major**: Automation, Computer-Integrated Technologies and Robotics
+
+- 🎓 **Bachelor’s Degree** (Sep 2021 – Jun 2025)
+  - 🧾 [Bachelor’s Thesis PDF](https://github.com/dmytrobuhai/dmytrobuhai/docs/diploma_project.pdf
+- 🎓 **Master’s Degree** _(in progress)_ (Sep 2025 – Dec 2026)
 
 ---
 
