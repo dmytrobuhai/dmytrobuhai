@@ -53,3 +53,5 @@ I’m an Embedded Systems Engineer at **hajster** with a strong engineering back
 </p>
 
 ---
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="dmytrobuhai" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ua.linkedin.com/in/dmytrobuhai?trk=profile-badge">Dmytro Buhai</a></div>
+              
