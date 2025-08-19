@@ -44,7 +44,7 @@ I’m an Embedded Systems Engineer at **hajster** with a strong engineering back
   <a href="mailto:buhaidmytrowork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/dmytro-buhai-a5b5b629a">
+  <a href="https://www.linkedin.com/in/dmytrobuhai">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0001-0112-1432">
@@ -53,5 +53,5 @@ I’m an Embedded Systems Engineer at **hajster** with a strong engineering back
 </p>
 
 ---
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="dmytrobuhai" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ua.linkedin.com/in/dmytrobuhai?trk=profile-badge">Dmytro Buhai</a></div>
+
               
